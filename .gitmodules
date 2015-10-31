@@ -1,0 +1,6 @@
+[submodule "KiThuatLapTrinh"]
+	path = KiThuatLapTrinh
+	url = https://github.com/paduvi/KiThuatLapTrinh.git
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/paduvi/OOP_Study.git
