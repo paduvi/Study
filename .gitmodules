@@ -4,3 +4,6 @@
 [submodule "OOP"]
 	path = OOP
 	url = https://github.com/paduvi/OOP_Study.git
+[submodule "ComputerNetworking"]
+	path = ComputerNetworking
+	url = https://github.com/paduvi/NetworkingStudy.git
