@@ -7,3 +7,6 @@
 [submodule "ComputerNetworking"]
 	path = ComputerNetworking
 	url = https://github.com/paduvi/NetworkingStudy.git
+[submodule "Linux"]
+	path = Linux
+	url = https://github.com/paduvi/linux.git
