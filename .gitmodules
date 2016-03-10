@@ -10,3 +10,6 @@
 [submodule "Linux"]
 	path = Linux
 	url = https://github.com/paduvi/linux.git
+[submodule "ai"]
+	path = ai
+	url = https://github.com/paduvi/ai_study.git
