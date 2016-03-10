@@ -16,3 +16,6 @@
 [submodule "ArtificialIntelligence"]
 	path = ArtificialIntelligence
 	url = https://github.com/paduvi/ai_study.git
+[submodule "OOP_Study"]
+	path = OOP_Study
+	url = https://github.com/paduvi/OOP_Study.git
